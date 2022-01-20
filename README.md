@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=rafaabc_jest&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=rafaabc_jest)
+
 # Framework of Automated Tests with Jest
 
 To consolidate the knowledge that I have been acquiring on the subject, I created this practical example
