@@ -1,4 +1,4 @@
-const isAbleToDrive = require("./DriversLicense");
+const isAbleToDrive = require("../src/driversLicense");
 describe("Should test the availabiliy to drive based on the age and a valid drivers license", () => {
   test("isAbleToDrive function exists", () => {
     expect(isAbleToDrive).toBeDefined();

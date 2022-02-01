@@ -26,10 +26,15 @@ Tools:
 # Installation
 Run npm i to install the dev dependencies.
 
-# Running via command line
+# Running unit tests via command line
 To run the tests via the command line of all test classes in the project:
 
 `npm run test`
+
+# Running mutation tests via command line
+To run the tests via the command line of all test classes in the project:
+
+`npm run mutation`
 
 # Report
 Running the tests make the application generates a test coverage report
