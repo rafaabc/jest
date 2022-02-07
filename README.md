@@ -1,11 +1,11 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=rafaabc_jest&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=rafaabc_jest)
 
-# Framework of Automated Tests with Jest
+# Framework of Automated Tests with Jest and StrykerJs
 
 To consolidate the knowledge that I have been acquiring on the subject, I created this practical example
-of an automated unit testing framework built with Jest.
+of an automated unit/mutation testing framework built with Jest and StrykerJs.
 
-I created a function to validate the user to drive based on age and a valid driver's license. I consider, for instance, that a person can get a driver's license at the age of 18 and beyond.
+I created a function to validate whether the user can drive, based on age and a valid driver's license. I consider, for instance, that a person can get a driver's license at the age of 18 and beyond.
 
 I used the equivalence partitioning and boundary value analysis to devise the basic test cases:
 
