@@ -8,4 +8,10 @@ module.exports = {
   reporters: ["html", "clear-text", "progress", "dashboard"],
   testRunner: "jest",
   coverageAnalysis: "perTest",
+  thresholds: {
+    high: 95,
+    low: 85,
+    break: 80
+  }
+
 };
